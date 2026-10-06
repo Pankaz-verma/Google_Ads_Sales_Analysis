@@ -5,7 +5,6 @@ Google Ads Sales Analysis
 This project focuses on analyzing and cleaning Google Ads sales data using Python and Jupyter Notebook.
 
 The main goal is to transform raw sales data into a clean and analysis-ready dataset while performing data quality checks and exploratory analysis.
-
 📁 Project Structure
 
 Google_Ads_Sales_Analysis/
