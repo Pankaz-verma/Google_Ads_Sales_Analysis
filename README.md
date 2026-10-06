@@ -2,9 +2,9 @@ Google Ads Sales Analysis
 
 📊 Project Overview
 
-This project focuses on analyzing and cleaning Google Ads sales data to prepare it for further analysis and business insights.
+This project focuses on analyzing and cleaning Google Ads sales data using Python and Jupyter Notebook.
 
-The project demonstrates a data-cleaning workflow using Python and Jupyter Notebook, including data inspection, preprocessing, and preparation of a cleaned dataset.
+The main goal is to transform raw sales data into a clean and analysis-ready dataset while performing data quality checks and exploratory analysis.
 
 📁 Project Structure
 
@@ -18,46 +18,41 @@ Google_Ads_Sales_Analysis/
 
 🧹 Data Cleaning
 
-The data_cleaning folder contains:
+The data_cleaning folder contains the following files:
 
 * google_ads_sales.ipynb — Jupyter Notebook containing the data cleaning and analysis process.
-* GoogleAds_DataAnalytics_Sales_Uncleaned.csv — Original/unprocessed Google Ads sales dataset used for the analysis.
+* GoogleAds_DataAnalytics_Sales_Uncleaned.csv — Original Google Ads sales dataset used for the analysis.
 
-The notebook covers steps such as:
+The notebook includes steps such as:
 
-* Data loading and inspection
+* Loading and inspecting the dataset
+* Checking data types
 * Identifying missing values
-* Data quality checks
-* Data transformation
-* Data cleaning and preprocessing
-* Preparing the dataset for further analysis
+* Checking for duplicate records
+* Cleaning and preprocessing the data
+* Performing data transformations
+* Preparing the data for further analysis
 
 🛠️ Tools & Technologies
 
 * Python
-* Jupyter Notebook
 * Pandas
 * NumPy
-* Data Analysis
+* Jupyter Notebook
 * Data Cleaning
-* Statistics 
+* Data Analysis
 
 🚀 How to Use
 
-1. Clone the repository.
-2. Navigate to the data_cleaning folder.
+1. Clone this repository.
+2. Open the data_cleaning folder.
 3. Open google_ads_sales.ipynb using Jupyter Notebook or JupyterLab.
-4. Run the notebook cells sequentially.
-
-📌 Dataset
-
-The project uses a Google Ads sales dataset containing information related to advertising and sales performance.
-
-The original dataset is included in the data_cleaning folder for reproducibility.
+4. Make sure the dataset GoogleAds_DataAnalytics_Sales_Uncleaned.csv is available in the same folder.
+5. Run the notebook cells sequentially.
 
 🎯 Project Objective
 
-The main objective of this project is to transform raw Google Ads sales data into a clean and analysis-ready dataset while demonstrating practical data-cleaning and analysis techniques using Python.
+The objective of this project is to demonstrate a practical data-cleaning workflow using Python and prepare Google Ads sales data for further analysis and business insights.
 
 👤 Author
 
